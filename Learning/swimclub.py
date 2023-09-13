@@ -5,7 +5,7 @@ FOLDER = "swimdata/"
 def read_swim_data(filename):
     """Return swim data from a file.
     
-    Fiven the name of a swimmer's file (in filename), extract all the required
+    Given the name of a swimmer's file (in filename), extract all the required
     data, then return it to the caller as a tuple.
     """
     
